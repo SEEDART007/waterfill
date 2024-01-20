@@ -1,0 +1,174 @@
+.Header{
+    display: flex;
+    margin-left: 10px;
+    font-size: 17px;
+    max-width: 300px;
+    border-radius: 10px;
+
+}
+
+#round1{
+    margin-left: 90px;
+}
+#round5{
+    margin-left: 1000px;
+  
+}
+.child{
+    margin-left: 20px;
+    font-size: 20px;
+    text-decoration: none;
+}
+.savewater{
+  font-family: 'Croissant One', serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-family: 'Lora', serif;
+    font-family: 'Pixelify Sans', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Rubik Burned', system-ui;
+    color: rgb(12, 126, 126);
+    font-size: 30px;
+}
+.savewater2{
+    font-family: 'Croissant One', serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Kanit', sans-serif;
+font-family: 'Kdam Thmor Pro', sans-serif;
+font-family: 'Lora', serif;
+font-family: 'Nunito', sans-serif;
+font-family: 'Pixelify Sans', sans-serif;
+font-family: 'Roboto Slab', serif;
+font-family: 'Rubik Burned', system-ui;
+color: rgb(5, 130, 63);
+}
+.newName{
+    margin-left: 30px;
+    margin-top: 0;
+    max-height: 400px;
+    border-radius: 6px;
+    padding: 20px 20px;
+   
+}
+.newName:hover{
+    background-color: rgb(131, 175, 214);
+}
+.newDiv{
+    display: flex;
+}
+.para{
+    display: flex;
+    margin-left: 10px;
+}
+.heigth{
+    font-size: 20px;
+    margin-left: 20px;
+}
+.width{
+    font-size: 20px;
+    margin-left: 20px;
+}
+.length{
+    font-size: 20px;
+    margin-left: 20px;
+}
+.diameter{
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 10px;
+    
+}
+.parent{
+    margin-top: 20px;
+}
+.heigth1{
+    font-size: 20px;
+    margin-left: 40px;
+    max-width: 150px;
+
+}
+.diameter1{
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 10px;
+    max-width: 150px;
+    
+}
+.para2{
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 50px;
+}
+.btn1{
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: aqua;
+    color: black;
+    margin-left: 30px;
+}
+.timer{
+    font-size: 50px;
+    margin-top: 90px;
+    margin-left: 900px;
+    display: flex;
+}
+.hedi{
+    /* border: 1px solid green;
+    max-width: 670px; */
+}
+.volume{
+    font-size: 20px;
+    margin-left: 20px;
+}
+.volume1{
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 10px;
+    max-width: 150px;
+}
+.alarmbtn{
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: aqua;
+    color: black;
+    margin-left: 30px;
+}
+.alarmstart{
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: aqua;
+    color: black;
+    margin-left: 30px;
+}
+/* @keyframes example {
+    from {background-color: red;}
+    to {background-color: yellow;}
+  } */
+body{
+    background-color: rgba(170, 234, 22, 0.936);
+    /* animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite; */
+}
+.alarmstart1{
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: aqua;
+    color: black;
+    margin-left: 600px;
+    margin-top: 0;
+}
+.timer1{
+    font-size: 50px;
+    /* margin-top: 90px; */
+    margin-left: 900px;
+    display: flex;
+}
+.videoBtn{
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: aqua;
+    color: black;
+    margin-left: 30px;
+}
