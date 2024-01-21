@@ -8,7 +8,7 @@ export default function Header() {
     <div> 
       <div className='Header'>    
       <a className='child'  href='/waterfill/rect'>rectangular</a>
-      <a id='round1' className='child' href='/'>rounded</a>   
+      <a id='round1' className='child' href='/waterfill/'>rounded</a>   
       </div>
       <a id='round5' className='child' href='/waterfill/use'>Why?</a>
     </div>
