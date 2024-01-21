@@ -7,10 +7,10 @@ export default function Header() {
   return (
     <div> 
       <div className='Header'>    
-      <a className='child'  href='/rect'>rectangular</a>
+      <a className='child'  href='/waterfill/rect'>rectangular</a>
       <a id='round1' className='child' href='/'>rounded</a>   
       </div>
-      <a id='round5' className='child' href='/use'>Why?</a>
+      <a id='round5' className='child' href='/waterfill/use'>Why?</a>
     </div>
   )
 }

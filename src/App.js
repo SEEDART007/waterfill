@@ -10,11 +10,11 @@ function App() {
   return (
  <>
  <Header/>
- <BrowserRouter basename="/goldendays">
+ <BrowserRouter basename="/waterfill">
       <Routes>
-        <Route path="/goldendays/rect" element={<Rectank/>}/>
+        <Route path="/waterfill/rect" element={<Rectank/>}/>
         <Route path="/" element={<Body/>}/>
-        <Route path="/goldendays/use" element={<Vdo/>}/>
+        <Route path="/waterfill/use" element={<Vdo/>}/>
       </Routes>
     </BrowserRouter>
  </>
