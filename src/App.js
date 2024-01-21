@@ -10,7 +10,7 @@ function App() {
   return (
  <>
  <Header/>
- <BrowserRouter>
+ <BrowserRouter basename="/waterfill">
       <Routes>
         <Route path="/rect" element={<Rectank/>}/>
         <Route path="/" element={<Body/>}/>
