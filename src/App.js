@@ -12,9 +12,9 @@ function App() {
  <Header/>
  <BrowserRouter basename="/waterfill">
       <Routes>
-        <Route path="/waterfill/rect" element={<Rectank/>}/>
+        <Route path="/rect" element={<Rectank/>}/>
         <Route path="/" element={<Body/>}/>
-        <Route path="/waterfill/use" element={<Vdo/>}/>
+        <Route path="/use" element={<Vdo/>}/>
       </Routes>
     </BrowserRouter>
  </>
