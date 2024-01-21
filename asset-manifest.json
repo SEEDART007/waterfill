@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/goldendays/static/css/main.60b5d7b8.css",
-    "main.js": "/goldendays/static/js/main.cef99b91.js",
-    "static/js/787.1937f22b.chunk.js": "/goldendays/static/js/787.1937f22b.chunk.js",
-    "static/media/Short Film For Save Water.mp4": "/goldendays/static/media/Short Film For Save Water.9f7b1f483a7d833aaa73.mp4",
-    "static/media/weeb-alert-182941.mp3": "/goldendays/static/media/weeb-alert-182941.9922c4f4ebeddef0ae5e.mp3",
-    "index.html": "/goldendays/index.html",
-    "main.60b5d7b8.css.map": "/goldendays/static/css/main.60b5d7b8.css.map",
-    "main.cef99b91.js.map": "/goldendays/static/js/main.cef99b91.js.map",
-    "787.1937f22b.chunk.js.map": "/goldendays/static/js/787.1937f22b.chunk.js.map"
+    "main.css": "/waterfill/static/css/main.60b5d7b8.css",
+    "main.js": "/waterfill/static/js/main.3df34c59.js",
+    "static/js/787.1937f22b.chunk.js": "/waterfill/static/js/787.1937f22b.chunk.js",
+    "static/media/Short Film For Save Water.mp4": "/waterfill/static/media/Short Film For Save Water.9f7b1f483a7d833aaa73.mp4",
+    "static/media/weeb-alert-182941.mp3": "/waterfill/static/media/weeb-alert-182941.9922c4f4ebeddef0ae5e.mp3",
+    "index.html": "/waterfill/index.html",
+    "main.60b5d7b8.css.map": "/waterfill/static/css/main.60b5d7b8.css.map",
+    "main.3df34c59.js.map": "/waterfill/static/js/main.3df34c59.js.map",
+    "787.1937f22b.chunk.js.map": "/waterfill/static/js/787.1937f22b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.60b5d7b8.css",
-    "static/js/main.cef99b91.js"
+    "static/js/main.3df34c59.js"
   ]
 }
